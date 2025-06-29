@@ -1,0 +1,20 @@
+Βιβλιοθήκες για την εκτέλεση του κώδικα:
+
+1) networkx
+2  torch.nn, torch.optim, torch.utils.data (δηλαδή torch)
+3) matplotlib.pyplot (δηλαδή matplotlib)
+4) sklearn.manifold,sklearn.cluster (δηλαδή scikit-learn)
+5) scipy.stats, scipy.spatial.distance (δηλαδή scipy)
+6) numpy
+7) argparse
+8) random
+
+Για την εγκατάσταση αυτών των βιβλιοθηκών θα πρέπει να εκτελεστούν: 
+   Βιβλιοθήκη torch: pip install torch torchvision torchaudio
+   Βιβλιοθήκη networkx: pip install networkx
+   Βιβλιοθήκη matplotlib: pip install matplotlib
+   Βιβλιοθήκη sklearn: pip install scikit-learn
+   Βιβλιοθήκη scipy: pip install scipy
+   Βιβλιοθήκη numpy: pip install numpy
+   Βιβλιοθήκη argparse: pip install argparse
+   Βιβλιοθήκη random: pip install random
